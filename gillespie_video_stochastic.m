@@ -61,4 +61,4 @@ axis([0 T XB0-5 XA0+5])
 end
 legend('Deterministic XA','Deterministic XB','Stochastic XA','Stochastic XB')
 xlabel('time')
-ylabel('concentration')
+ylabel('Number of molecules')
