@@ -29,4 +29,4 @@ else
 axis([0 T XB0-5 XA0+5])   
 end
 xlabel("Time")
-ylabel("Concentration")
+ylabel("Number of molecules")
