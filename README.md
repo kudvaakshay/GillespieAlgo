@@ -1,6 +1,6 @@
 # Gillespie Algorithm
-You can just run the code which says stochastic to get both deterministic and stochastic formulations.
-Change the initial conditions in the determonistic code as shown in the video:
+You can just run the code which says stochastic to get both deterministic and stochastic graphs.
+Change the initial conditions in the deterministic code as shown in the video:
 
 Based on this video:
 
